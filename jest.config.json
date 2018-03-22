@@ -1,0 +1,6 @@
+{
+  "setupFiles": [
+    "<rootDir>/src/client/tests/shim.js",
+    "<rootDir>/src/client/tests/setupTests.js"
+  ]
+}

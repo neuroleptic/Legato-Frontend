@@ -10,7 +10,8 @@
     "dev-unix": "npm run build -- --watch & npm run watch",
     "devw": "npm run dev-win",
     "devm": "npm run dev-unix",
-    "devl": "npm run dev-unix"
+    "devl": "npm run dev-unix",
+    "test": "jest --config=jest.config.json"
   },
   "dependencies": {
     "axios": "^0.17.1",
